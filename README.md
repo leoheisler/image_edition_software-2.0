@@ -17,3 +17,4 @@
   * minor save bug resolved
   
   
+**this project was made using qt framework
